@@ -12,12 +12,12 @@ folder
 
 How the project is organized
 
-- Code brings the steps together and starts training
-- Data reads and prepares the digit images
-- Model contains the neural network calculations
+- code brings the steps together and starts training
+- data reads and prepares the digit images
+- model contains the neural network calculations
 - train.csv contains the dataset on which the model is trained.
-- Training updates the network as it learns
-- Visualization displays example images and predictions
+- training updates the network as it learns
+- visualization displays example images and predictions
 
 The program prints its learning progress and validation accuracy
 It also displays a few example predictions
